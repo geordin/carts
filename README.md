@@ -1,6 +1,6 @@
 :warning: The 0.13.0 release was the last release for this repository since the Keptn team moves to another application for demo purposes of Keptn. No further maintenance will be provided on this repository.
 
-# Carts
+## Carts
 
 Within this repository we provide the sourcecode for the carts microservice which is onboarded to [Keptn](https://keptn.sh).
 
